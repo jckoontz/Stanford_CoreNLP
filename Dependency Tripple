@@ -1,0 +1,6 @@
+Create dependency triples with anaphora resolution:
+
+#16 g ram
+java -Xmx16g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse,natlog,mention,coref,openie -file nytimes.txt -outputFormat json
+#2 g ram
+java -Xmx2g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse,natlog,mention,coref,openie -file nytimes.txt -outputFormat json
