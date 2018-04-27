@@ -1,0 +1,332 @@
+@Languages:	eng, spa
+@ID:	spa, eng|Miami|LAU|27;|female|||Adult|||
+@ID:	spa, eng|Miami|CHL|24;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
+*CHL:	well she was telling me about this thing with Oprah@s:eng&spa . 124_3849
+%aut:	well.ADV she.PRON.SUB.F.3S was.V.3S.PAST tell.V.PRESPART me.PRON.OBJ.1S about.PREP this.DEM.NEAR.SG thing.N.SG with.PREP name
+*CHL:	and she's a book@s:eng&spa . 6215_7262
+%aut:	I.PRON.SUB.1S+BE.V.PRES go.V.PRESPART+TO.PREP go.V.INFIN unk to.PREP see.V.INFIN what.REL it.PRON.SUB.3S+BE.V.3S.PRES all.ADJ about.PREP
+%aut:	it.PRON.SUB.3S it.PRON.SUB.3S+BE.V.3S.PRES about.PREP basically.ADV she.PRON.SUB.F.3S give.V.3S.PRES she.PRON.SUB.F.3S+BE.V.3S.PRES give.V.PRESPART them.PRON.OBJ.3P money.N.SG
+%aut:	you.PRON.SUB.2SP+BE.V.PRES just.ADV try.V.PRESPART to.PREP show.V.INFIN and.CONJ promote.V.INFIN that.CONJ you.PRON.SUB.2SP+BE.V.PRES try.V.PRESPART to.PREP donate.V.INFIN so.ADV much.ADJ million.NUM+PV of.PREP dollar.N.PL right.ADJ
+*CHL:	oh@s:eng&spa . 47451_48113
+%aut:	I.PRON.SUB.1S think.V.1S.PRES it.PRON.SUB.3S+BE.V.3S.PRES get.V.PRESPART to.PREP her.ADJ.POSS.F.3S head.N.SG that.CONJ she.PRON.SUB.F.3S+BE.V.3S.PRES like.CONJ.[or].like.SV.INFIN
+*LAU:	+< it's like Bono@s:eng&spa you know . 57247_58274
+*LAU:	[- spa] pero . 59732_60350
+*CHL:	I've never watched Oprah@s:eng&spa . 60556_61834
+*LAU:	+< y@s:spa Fernando@s:eng&spa ? 63868_64750
+%aut:	I.PRON.SUB.1S+BE.V.PRES leave.V.PRESPART on.PREP name
+*LAU:	+< &uwi ok@s:eng&spa . 67333_68570
+*LAU:	well maybe they can email@s:eng&spa it to you right ? 70830_72305
+*LAU:	you check your email@s:eng&spa in Nicaragua@s:eng&spa ? 72280_73731
+*CHL:	<I rather> [///] yeah email@s:eng&spa it to me . 73424_75296
+*LAU:	+< ok@s:eng&spa I'll email@s:eng&spa it . 74941_75881
+%aut:	said.AV.PAST+P I.PRON.SUB.1S I.PRON.SUB.1S do.V.1S.PRES+NEG think.V.INFIN my.ADJ.POSS.1S grandmother.N.SG+GB go.V.PRESPART+TO.PREP get.V.INFIN it.PRON.OBJ.3S right.ADJ
+*LAU:	say oh@s:eng&spa er@s:eng&spa she went to the er@s:eng&spa plastic surgery . 83423_86192
+*LAU:	[- spa] se jaló la cara de nuevo . 86256_87682
+*CHL:	ah@s:eng&spa my lord ! 87542_88737
+*LAU:	+" oh@s:eng&spa todo@s:spa se@s:spa mira@s:spa en@s:spa las@s:spa manos@s:spa . 96306_97775
+*LAU:	[- spa] la vejez se mira en las manos . 97775_99045
+*LAU:	so se@s:spa jaló@s:spa la@s:spa cara@s:spa nueva@s:spa . 103519_104715
+*CHL:	ay@s:spa [?] how funny . 104948_106118
+*LAU:	que@s:spa no@s:spa diga@s:spa Nicaragua@s:eng&spa por@s:spa favor@s:spa . 112339_114169
+*CHL:	+< yeah just plain just mmhm sin@s:spa nada@s:spa . 113732_116749
+*LAU:	pero@s:spa no@s:spa xxx you know they're so patriotic and they +... 116774_119057
+*CHL:	just email@s:eng&spa it to me &e: . 121553_123647
+*CHL:	yo@s:spa se@s:spa lo@s:spa mando@s:spa a@s:spa Fernando@s:eng&spa . 123647_125608
+*LAU:	I'll email@s:eng&spa it closed and I'll email@s:eng&spa it open . 124158_126457
+%aut:	he.PRON.SUB.M.3S+BE.V.3S.PRES move.V.PRESPART
+%aut:	he.PRON.SUB.M.3S+BE.V.3S.PRES move.V.PRESPART with.PREP his.ADJ.POSS.M.3S they.PRON.SUB.3P+BE.V.PRES move.V.PRESPART from.PREP from.PREP the.DET.DEF house.N.SG there.ADV right.ADJ
+*CHL:	porque@s:spa (.) it's (.) a lot cheaper . 141933_143812
+*LAU:	+< but they sold their house verdad@s:spa ? 146587_148623
+*LAU:	+< ok@s:eng&spa . 148244_148746
+*CHL:	+, that (.) es@s:spa su@s:spa tío@s:spa that has lived with him like I don't know how like ya@s:spa several years +... 150816_156880
+*CHL:	[- spa] él no paga nada en la casa . 158554_160598
+*LAU:	+< [- spa] el machismo ! 163447_164386
+*CHL:	and I understand see you know if you don't have enough money at least algo@s:spa [?] you know . 166711_171857
+*CHL:	+" I can't [/] I can't (.) mantener@s:spa su@s:spa familia@s:spa any more you know . 174120_178125
+*LAU:	+< [- spa] qué xxx . 184784_185672
+*CHL:	[- spa] pero <ella es> [/] ella es enfermita . 190988_193231
+*CHL:	so Fernando's@s:eng&spa like fed up with it . 194917_197004
+%aut:	well.ADV the.DET.DEF thing.N.SG is.V.3S.PRES that.CONJ they.PRON.SUB.3P start.V.PAST look.V.PRESPART for.PREP a.DET.INDEF new.ADJ house.N.SG to.PREP move.V.INFIN in.PREP
+*LAU:	+< just Fernando@s:eng&spa and his mom ? 199937_201255
+%aut:	because.CONJ she.PRON.SUB.F.3S was.V.3S.PAST take.V.PRESPART
+*LAU:	+< ok@s:eng&spa . 208234_208692
+%aut:	but.CONJ the.DET.DEF grandmother.N.SG was.V.3S.PAST take.V.PRESPART you.PRON.SUB.2SP know.V.2SP.PRES her.ADJ.POSS.F.3S son.N.SG+=POSS side.N.SG
+*LAU:	+< [- spa] como siempre como siempre . 213674_215369
+*LAU:	+< [- spa] xxx los hombres . 216057_217464
+*CHL:	+< it's a little machista@s:spa . 217587_219265
+*LAU:	+< xxx Nick@s:eng&spa and his mom que@s:spa todo@s:spa era@s:spa como@s:spa hombre@s:spa xxx . 218258_222100
+*CHL:	yeah I don't know if it's like this hispanic thing +/. 224071_227140
+*LAU:	+< like <even to this day> [/] even to this day she'll give xxx like (.) you know money for [//] to pay the rent y@s:spa todo@s:spa . 235719_240868
+*LAU:	+" [- spa] bueno yo no quiero ir . 242740_243689
+*LAU:	qué@s:spa jodían@s:spa it's like (.) stupid Nicaraguans [=! laughing] ! 250948_253461
+*LAU:	[- spa] , pero darle (.) lo que quieres dar +... 260701_263377
+*CHL:	wow@s:eng&spa well the thing is that they found this place right . 263273_265821
+*LAU:	oh ok@s:eng&spa . 269890_270494
+*CHL:	and so Fernando's@s:eng&spa like +"/. 273647_275273
+*LAU:	rent [/] rent ok@s:eng&spa . 280846_282785
+*LAU:	[- spa] xxx bueno . 285668_286632
+%aut:	and.CONJ you.PRON.SUB.2SP+BE.V.PRES not.ADV go.V.PRESPART+TO.PREP get.V.INFIN cheap.ADJ.COMP than.CONJ that.CONJ.[or].that.DEM.FAR anywhere.ADV
+%aut:	so.ADV he.PRON.SUB.M.3S+BE.V.3S.PRES go.V.PRESPART+TO.PREP pay.V.INFIN for.PREP the.DET.DEF fifty.NUM dollar.N.PL his.ADJ.POSS.M.3S water.N.SG his.ADJ.POSS.M.3S light.N.SG
+%aut:	because.CONJ apparent.ADJ+ADV.[or].apparently.ADV he.PRON.SUB.M.3S he.PRON.SUB.M.3S can.V.3S.PRES+NEG afford.V.INFIN live.V.PRESPART on.PREP his.ADJ.POSS.M.3S own.PRON
+*CHL:	uh@s:eng&spa I know the situation's difficult y@s:spa todo@s:spa and [//] but +... 320672_324184
+*LAU:	pero@s:spa he [/] he works ? 324396_326156
+*LAU:	+< and his wife works también@s:spa ? 326557_328596
+*CHL:	and somehow Fernando's@s:eng&spa xxx +/. 329854_331991
+*CHL:	and Fernando's@s:eng&spa mom retired . 336820_339530
+*CHL:	and Fernando@s:eng&spa are [?] sustaining all of them . 339538_341805
+%aut:	and.CONJ name are.V.123P.PRES sustain.V.PRESPART all.ADJ of.PREP them.PRON.OBJ.3P
+*CHL:	[- spa] pero bueno xxx . 343765_345762
+%aut:	but.CONJ I.PRON.SUB.1S+BE.V.PRES go.V.PRESPART on.PREP name
+*LAU:	take pictures ah@s:eng&spa exciting ! 349459_351293
+*LAU:	+< does Spirit@s:eng&spa fly to Nicaragua@s:eng&spa ? 353495_355353
+*LAU:	Spirit@s:eng&spa airlines do they fly to Nicaragua@s:eng&spa ? 356049_358013
+*LAU:	from Fort_Lauderdale@s:eng&spa ? 358218_359298
+*CHL:	+< Fernando@s:eng&spa +... 358840_360019
+%aut:	um.IM the.DET.DEF one.PRON.PL I.PRON.SUB.1S was.V.13S.PAST tell.V.PRESPART you.PRON.SUB.2SP about.PREP right.ADJ now.ADV
+*LAU:	they joined the Spirit@s:eng&spa airfare thing . 364482_366594
+%aut:	they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART they.PRON.SUB.3P they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART to.PREP name for.PREP thirty.NUM six.NUM dollar.N.PL round.ADJ trip.N.SG
+*CHL:	Fernando@s:eng&spa joined it . 371367_372807
+%aut:	he.PRON.SUB.M.3S+BE.V.3S.PRES been.V.PASTPART tell.V.PRESPART me.PRON.OBJ.1S to.PREP join.V.INFIN
+*LAU:	I told Michael@s:eng&spa I'm like +"/. 374395_375361
+%aut:	I.PRON.SUB.1S think.V.1S.PRES I.PRON.SUB.1S+BE.V.PRES go.V.PRESPART to.PREP do.V.INFIN it.PRON.OBJ.3S
+%aut:	so.ADV even.ADJ if.CONJ you.PRON.SUB.2SP do.V.2SP.PRES+NEG end.V.INFIN up.ADV buy.V.PRESPART an.DET.INDEF unk you.PRON.SUB.2SP still.ADJ save.V.2SP.PRES what.REL you.PRON.SUB.2SP be.V.2SP.COND
+%aut:	yeah.ADV and.CONJ the.DET.DEF odd.ADJ+PV.[or].odds.N.PL are.V.123P.PRES you.PRON.SUB.2SP are.V.2SP.PRES go.V.PRESPART+TO.PREP travel.V.INFIN at.PREP least.ADJ to.PREP one.PRON.SG place.N.SG
+%aut:	and.CONJ the.DET.DEF reception.N.SG there.ADV and.CONJ and.CONJ the.DET.DEF girl.N.SG the.DET.DEF office.N.SG manager.N.SG in.PREP our.ADJ.POSS.1P in.PREP our.ADJ.POSS.1P office.N.SG are.V.123P.PRES go.V.PRESPART everywhere.ADV
+%aut:	this.DEM.NEAR.SG time.N.SG round.ADJ they.PRON.SUB.3P+BE.V.PRES do.V.PRESPART the.DET.DEF same.ADJ thing.N.SG for.PREP
+%aut:	but.CONJ they.PRON.SUB.3P+BE.V.PRES come.V.PRESPART on.PREP a.DET.INDEF name and.CONJ leave.V.INFIN+ASV on.PREP a.DET.INDEF name
+*LAU:	then they're going to Boston@s:eng&spa . 407464_408480
+%aut:	then.ADV they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART to.PREP name
+*CHL:	+< oh@s:eng&spa ! 407661_407946
+*LAU:	they're going to Boston@s:eng&spa . 409002_410094
+%aut:	they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART to.PREP name
+*LAU:	they're going to Washington@s:eng&spa . 410076_411371
+%aut:	they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART to.PREP name
+%aut:	they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART to.PREP and.CONJ the.DET.DEF the.DET.DEF husband.N.SG+GB like.CONJ.[or].like.N.SG
+*LAU:	+" [- spa] y ay ! 413182_413577
+*LAU:	+" are you ok@s:eng&spa like ? 413478_414685
+*LAU:	+" are you gonna travel <your whole> [//] the whole country with Paige@s:eng&spa ? 417095_418738
+%aut:	are.V.123P.PRES you.PRON.SUB.2SP go.V.PRESPART+TO.PREP travel.V.INFIN your.ADJ.POSS.2SP whole.ADJ the.DET.DEF whole.ADJ country.N.SG with.PREP name
+*LAU:	porque@s:spa se@s:spa llama@s:spa Paige@s:eng&spa the girl . 418640_420074
+*CHL:	ah@s:eng&spa ! 419918_420632
+%aut:	so.ADV it.PRON.SUB.3S+BE.V.3S.PRES real.ADJ+ADV go.V.PRESPART+TO.PREP
+%aut:	I.PRON.SUB.1S think.V.1S.PRES I.PRON.SUB.1S+BE.V.PRES go.V.PRESPART+TO.PREP join.V.INFIN
+*LAU:	the only thing is they don't fly to Canada@s:eng&spa so I'm like +... 423120_424734
+*LAU:	but <they &ʤo> [//] they fly to Chicago@s:eng&spa . 426023_428135
+*LAU:	they have Chicago@s:eng&spa from Fort_Lauderdale@s:eng&spa . 428228_430135
+*CHL:	+< Fernando@s:eng&spa from Nicaragua@s:eng&spa (.) he paid I think it was like (.) one hundred and (.) two or something like that something ridiculous . 431846_439456
+*LAU:	+< Jamaica round trip ticket to Kingston@s:eng&spa where Michael@s:eng&spa stays (.) one [/] one oh nine . 438654_443574
+*CHL:	Lauren@s:eng&spa like I'm [///] ay@s:spa me@s:spa tienen@s:spa cansada@s:spa . 447762_451626
+*CHL:	because it's like (.) Lauren@s:eng&spa <all of us are> [///] (.) you know we put all our work and all our efforts . 459615_465133
+%aut:	and.CONJ we.PRON.SUB.1P real.ADJ+ADV like.CONJ.[or].like.SV.INFIN what.REL we.PRON.SUB.1P+BE.V.PRES do.V.PRESPART
+*LAU:	the same old lady that you've been ah@s:eng&spa . 471245_473136
+%aut:	if.CONJ you.PRON.SUB.2SP do.V.2SP.PRES+NEG agree.V.INFIN with.PREP something.PRON or.CONJ you.PRON.SUB.2SP do.V.2SP.PRES+NEG like.CONJ what.REL we.PRON.SUB.1P+BE.V.PRES do.V.PRESPART let.SV.INFIN let.SV.INFIN us.PRON.OBJ.1P know.SV.INFIN
+%aut:	I.PRON.SUB.1S do.V.1S.PRES+NEG like.CONJ that.DEM.FAR what.REL you.PRON.SUB.2SP guy.N.PL are.V.123P.PRES do.V.PRESPART
+%aut:	you.PRON.SUB.2SP guy.N.PL are.V.123P.PRES wast.V.PRESPART your.ADJ.POSS.2SP time.N.SG
+*CHL:	but [//] (.) <and she> [//] and (.) Leticia@s:eng&spa is like +"/. 501456_504231
+*CHL:	+" todo@s:spa este@s:spa tiempo@s:spa she had like una@s:spa cara@s:spa que@s:spa [//] como@s:spa que@s:spa no@s:spa entendía@s:spa lo@s:spa que@s:spa (.) le@s:spa estaban@s:spa diciendo@s:spa a@s:spa ella@s:spa . 504236_510343
+%aut:	all.ADJ.M.SG this.ADJ.DEM.M.SG time.N.M.SG she.PRON.SUB.F.3S had.V.PAST like.CONJ a.DET.INDEF.F.SG face.N.F.SG that.PRON.REL like.CONJ that.CONJ not.ADV understand.V.13S.IMPERF the.DET.DEF.NT.SG that.PRON.REL him.PRON.OBL.MF.23S be.V.3P.IMPERF tell.V.PRESPART to.PREP she.PRON.OBJ.F.3S
+*CHL:	and then Le(ticia)@s:eng&spa you know Leticia@s:eng&spa finished . 510634_513827
+*CHL:	and um Raquel's@s:eng&spa like +"/. 513851_515366
+%aut:	what.REL are.V.123P.PRES you.PRON.SUB.2SP talk.V.PRESPART about.PREP
+*CHL:	+" well you tell Ana@s:eng&spa . 520198_521729
+*CHL:	+" you know and Ana's@s:eng&spa our supervisor . 521950_523997
+*CHL:	+" please tell Chloe@s:eng&spa and Maricarmen@s:eng&spa that I've never said that . 531604_534821
+*CHL:	and Leticia@s:eng&spa is like +"/. 542622_543580
+*CHL:	la@s:spa cosa@s:spa es@s:spa que@s:spa that was Thursday . 550881_553689
+*CHL:	+" oh@s:eng&spa I'm gonna be a (.) few minutes late . 560791_562666
+%aut:	oh.IM I.PRON.SUB.1S+BE.V.PRES go.V.PRESPART+TO.PREP be.V.INFIN a.DET.INDEF few.ADJ minute.N.PL late.ADJ
+%aut:	because.CONJ you.PRON.SUB.2SP are.V.2SP.PRES you.PRON.SUB.2SP leave.V.PRESPART somewhere.ADV again.ADV
+*CHL:	well (..) <my passport> [//] er@s:eng&spa the visa expires in June . 564595_569179
+*LAU:	because [///] but wait you're flying to Nicaragua@s:eng&spa [//] you oh xxx ok@s:eng&spa xxx . 571332_574680
+%aut:	because.CONJ but.CONJ wait.V.INFIN you.PRON.SUB.2SP+BE.V.PRES fly.V.PRESPART to.PREP name you.PRON.SUB.2SP oh.IM unk
+*LAU:	+, when I went to Canada I saw the madre@s:spa . 575984_577736
+%aut:	in.PREP name with.PREP name before.CONJ the.DET.DEF name before.CONJ that.CONJ.[or].that.DEM.FAR you.PRON.SUB.2SP if.CONJ you.PRON.SUB.2SP were.V.2S123P.PAST go.V.PRESPART to.PREP name or.CONJ name you.PRON.SUB.2SP did.V.PAST+NEG need.SV.INFIN a.DET.INDEF passport.N.SG
+*LAU:	+" oh@s:eng&spa do you need a passport ? 591160_592020
+*LAU:	and Michael@s:eng&spa was like +"/. 591979_592568
+%aut:	we.PRON.SUB.1P were.V.1P.PAST work.V.PRESPART at.PREP the.DET.DEF courthouse.N.SG
+%aut:	and.CONJ then.ADV I.PRON.SUB.1S had.V.PAST to.PREP say.V.INFIN that.CONJ I.PRON.SUB.1S was.V.13S.PAST take.V.PRESPART doctor.N.SG+=POSS appointment.N.PL and.CONJ everything.PRON
+*LAU:	[- spa] lo que pasa es un relajo . 613091_614902
+*CHL:	because <it doesn't> [///] eso@s:spa no@s:spa importa@s:spa . 627745_630378
+*LAU:	oh@s:eng&spa . 630181_630593
+*CHL:	the thing is that (.) my passport ellos@s:spa <me@s:spa han@s:spa> [//] me@s:spa lo@s:spa han@s:spa revalidado@s:spa dos@s:spa veces@s:spa . 630425_635057
+*CHL:	que@s:spa (.) si@s:spa ya@s:spa te@s:spa lo@s:spa han@s:spa revalidado@s:spa dos@s:spa veces@s:spa you have to get a new passport . 639914_644621
+%aut:	when.CONJ you.PRON.SUB.2SP get.V.2SP.PRES your.ADJ.POSS.2SP name passport.N.SG are.V.123P.PRES you.PRON.SUB.2SP go.V.PRESPART+TO.PREP keep.V.INFIN your.ADJ.POSS.2SP name passport.N.SG too.ADV
+*CHL:	I think Sarah@s:eng&spa does . 661277_662571
+*LAU:	but Sarah@s:eng&spa wasn't born there . 663408_665430
+*CHL:	but she has a Nicarag(uan)@s:eng&spa +//. 665483_666903
+*LAU:	oh@s:eng&spa really ? 668959_669512
+*LAU:	+< oh@s:eng&spa ok@s:eng&spa . 669671_670310
+*CHL:	[- spa] la cosa es que +/. 670551_671546
+*LAU:	your brother is xxx uh@s:eng&spa +... 671291_672306
+%aut:	is.V.3S.PRES is.V.3S.PRES go.V.PRESPART for.PREP citizenship.N.SG too.ADV or.CONJ no.ADV
+*LAU:	oh@s:eng&spa thank you . 675960_676864
+*LAU:	oh@s:eng&spa but he's not a minor any more . 677113_678201
+*CHL:	ah@s:eng&spa . 679729_680151
+*OSE:	www@s:eng&spa . 690449_694583
+*LAU:	+< I'm ok@s:eng&spa . 694634_695183
+%aut:	um.IM what.REL was.V.3S.PAST I.PRON.SUB.1S say.V.PRESPART
+*CHL:	+" Chloe@s:eng&spa we're having a meeting . 702377_703834
+%aut:	name we.PRON.SUB.1P+BE.V.PRES have.V.PRESPART a.DET.INDEF unk
+*LAU:	Raquel's@s:eng&spa+eng the name of the boss ? 708160_709183
+*LAU:	[- spa] la pesada . 709527_710329
+*LAU:	+< ok@s:eng&spa . 710587_710923
+*CHL:	our supervisor is Ana@s:eng&spa . 710981_713126
+*LAU:	Ana's@s:eng&spa+eng her cousin ? 713765_714849
+*CHL:	no Ana's@s:eng&spa+eng just a girl she's always worked with . 715046_717735
+*LAU:	ok@s:eng&spa . 722178_722735
+*CHL:	pero@s:spa she has like una@s:spa mala@s:spa fama@s:spa . 723833_726374
+*LAU:	+< who Ana@s:eng&spa ? 728748_729346
+*LAU:	oh@s:eng&spa ok@s:eng&spa . 729782_730560
+*CHL:	and you know they [/] they told me (.) several people que@s:spa han@s:spa echado@s:spa gente@s:spa por@s:spa ella@s:spa stuff like that . 730313_736301
+*CHL:	well then the thing is Raquel@s:eng&spa wanted to confront everybody . 737292_740026
+*CHL:	and [/] and tell Ana@s:eng&spa that that wasn't true . 741262_743857
+*CHL:	[- spa] la cosa es que +... 744220_745464
+*CHL:	and (..) she practically told Ana@s:eng&spa that no that everything that she said she was telling her and <it wasn't> [//] right she wasn't referring to us . 748866_757044
+%aut:	and.CONJ she.PRON.SUB.F.3S practical.ADJ+ADV.[or].practically.ADV told.AV.PAST name that.CONJ.[or].that.DEM.FAR no.ADV that.CONJ.[or].that.DEM.FAR everything.PRON that.CONJ she.PRON.SUB.F.3S said.V.PAST she.PRON.SUB.F.3S was.V.3S.PAST tell.V.PRESPART her.ADJ.POSS.F.3S.[or].her.PRON.OBJ.F.3S and.CONJ it.PRON.SUB.3S was.V.3S.PAST+NEG right.ADJ she.PRON.SUB.F.3S was.V.3S.PAST+NEG unk to.PREP us.PRON.OBJ.1P
+*CHL:	<and I> [///] the thing is that (.) I get to the office and Ana's@s:eng&spa like (...) almost crying . 758578_764859
+*CHL:	+" <yo@s:spa no@s:spa la@s:spa> [/] yo@s:spa no@s:spa la@s:spa desmentí@s:spa porque@s:spa (.) what's my word against hers &ladadada . 766278_770846
+*LAU:	+< [- spa] parásita [?] . 776155_777416
+*CHL:	so it's like Lauren@s:eng&spa I don't know who to trust . 781316_783928
+*CHL:	oh@s:eng&spa yeah . 784162_785195
+*CHL:	and &s oh@s:eng&spa and then (.) Raquel@s:eng&spa (..) she blamed it on Elisa@s:eng&spa . 785230_790495
+*CHL:	Elisa@s:eng&spa left the office . 790553_792484
+*CHL:	so you know she [/] she kind of found ok@s:eng&spa well let me blame it on Elisa@s:eng&spa because she's not in the office . 794363_799720
+*CHL:	<yeah but> [///] and not to (.) you know <&n> [//] para@s:spa no@s:spa echar@s:spa a@s:spa xxx adelante@s:spa you know . 801030_806235
+*CHL:	+, and Ana@s:eng&spa says +"/. 812930_813911
+*CHL:	+" well Elisa@s:eng&spa was the one gossiping (.) you know . 813876_816465
+*CHL:	and she does [///] Elisa's@s:eng&spa like (.) &əb [//] she doesn't know what's going on . 816408_820460
+*CHL:	that she [/] she was the one that told Raquel@s:eng&spa that [/] what &e Ana@s:eng&spa was saying to us . 829798_835580
+%aut:	that.CONJ.[or].that.DEM.FAR she.PRON.SUB.F.3S she.PRON.SUB.F.3S was.V.3S.PAST the.DET.DEF one.PRON.SG that.CONJ.[or].that.DEM.FAR told.AV.PAST name that.CONJ.[or].that.DEM.FAR what.REL name was.V.3S.PAST say.V.PRESPART to.PREP us.PRON.OBJ.1P
+*CHL:	that's how Raquel@s:eng&spa found out that you know Ana@s:eng&spa was telling +... 835767_839366
+%aut:	that.DEM.FAR+BE.V.3S.PRES how.ADV name found.SV.INFIN.[or].find.V.PAST+P out.ADV that.CONJ you.PRON.SUB.2SP know.V.2SP.PRES name was.V.3S.PAST tell.V.PRESPART
+*LAU:	+< oh@s:eng&spa . 837439_838565
+%aut:	tell.V.PRESPART us.PRON.OBJ.1P that.CONJ she.PRON.SUB.F.3S was.V.3S.PAST+NEG she.PRON.SUB.F.3S was.V.3S.PAST+NEG happy.ADJ with.PREP our.ADJ.POSS.1P work.N.SG
+%aut:	and.CONJ she.PRON.SUB.F.3S+BE.V.3S.PRES tell.V.PRESPART us.PRON.OBJ.1P she.PRON.SUB.F.3S never.ADV said.AV.PAST+P that.DEM.FAR
+*CHL:	o@s:spa sea@s:spa I don't know who is lying . 859197_860953
+%aut:	or.CONJ be.V.13S.SUBJ.PRES I.PRON.SUB.1S do.V.1S.PRES+NEG know.V.INFIN who.REL is.V.3S.PRES lie.V.PRESPART
+*CHL:	[- spa] me [//] ya me tienen cansada . 866622_869052
+*CHL:	[- spa] me tienen cansada . 874849_876472
+*CHL:	mmm@s:eng&spa . 893108_893503
+%aut:	but.CONJ I.PRON.SUB.1S just.ADV hate.V.INFIN be.V.PRESPART
+%aut:	and.CONJ it.PRON.SUB.3S+BE.V.3S.PRES distract.V.PRESPART
+*LAU:	hmm@s:eng&spa ? 925683_926235
+*LAU:	oh@s:eng&spa it's Michael@s:eng&spa . 927836_929058
+*LAU:	ah@s:eng&spa . 929117_929508
+*LAU:	I'm here at Denny's@s:eng&spa with my cousin . 935419_937653
+%aut:	I.PRON.SUB.1S told.V.PAST you.PRON.SUB.2SP I.PRON.SUB.1S told.V.PAST you.PRON.SUB.2SP yesterday.N.SG I.PRON.SUB.1S was.V.13S.PAST go.V.PRESPART+TO.PREP go.V.INFIN and.CONJ do.V.INFIN this.DEM.NEAR.SG remember.SV.INFIN
+*LAU:	I was gonna do the whole um recording thing (..) for María's@s:eng&spa friend . 946424_949466
+%aut:	I.PRON.SUB.1S was.V.13S.PAST go.V.PRESPART+TO.PREP do.V.INFIN the.DET.DEF whole.ADJ um.IM record.V.PRESPART thing.N.SG for.PREP name friend.N.SG
+*LAU:	mi@s:spa entonces@s:spa ahora@s:spa you wanna speak Spanish ! 964886_966778
+%aut:	my.ADJ.POSS.MF.1S.SG then.ADV now.ADV you.PRON.SUB.2SP want.V.2SP.PRES+TO.PREP speak.V.INFIN Spanish.N.SG
+%eng:	my, so now you wanna speak Spanish!
+*CHL:	oh@s:eng&spa [=! laughing] . 966895_967495
+*LAU:	I told you I was gonna eat at Denny's@s:eng&spa with Chloe@s:eng&spa . 968622_969981
+%aut:	I.PRON.SUB.1S told.V.PAST you.PRON.SUB.2SP I.PRON.SUB.1S was.V.13S.PAST go.V.PRESPART+TO.PREP eat.V.INFIN at.PREP name with.PREP name
+%aut:	he.PRON.SUB.M.3S he.PRON.SUB.M.3S start.V.PAST make.V.PRESPART a.DET.INDEF noise.N.SG
+%aut:	I.PRON.SUB.1S guess.V.1S.PRES ask.V.PRESPART me.PRON.OBJ.1S if.CONJ she.PRON.SUB.F.3S+BE.V.3S.PRES swallow.V.PASTPART water.N.SG or.CONJ something.PRON
+%aut:	and.CONJ she.PRON.SUB.F.3S+BE.V.3S.PRES accumulate.V.PRESPART sit.V.PRESPART there.ADV
+*LAU:	oh@s:eng&spa and they had to put a little cat to sleep today . 1034429_1036136
+*LAU:	uhuh@s:eng&spa this is why I couldn't be a vet . 1038077_1040265
+%aut:	what.REL her.ADJ.POSS.F.3S lung.N.PL be.V.PRESPART swollen.V.PASTPART
+%aut:	you.PRON.SUB.2SP give.V.2SP.PRES her.ADJ.POSS.F.3S.[or].her.PRON.OBJ.F.3S one.PRON.SG pill.N.SG every.ADJ ten.NUM day.N.PL and.CONJ it.PRON.SUB.3S kill.V.3S.PRES the.DET.DEF flea.N.PL within.PREP thirty.NUM um.IM thirty.NUM minute.N.PL of.PREP her.ADJ.POSS.F.3S.[or].her.PRON.OBJ.F.3S take.V.PRESPART the.DET.DEF pill.N.PL.[or].pills.N.PL
+*LAU:	so other than that she's ok@s:eng&spa . 1124296_1126026
+*LAU:	so uh@s:eng&spa she's always (.) launching herself into the carpet . 1172689_1175200
+*LAU:	ok@s:eng&spa what are we gonna do ? 1201516_1203051
+%aut:	unk what.REL are.V.123P.PRES we.PRON.SUB.1P go.V.PRESPART+TO.PREP do.V.INFIN
+*LAU:	ok@s:eng&spa . 1209505_1210034
+*LAU:	ok@s:eng&spa bye . 1211607_1213035
+%aut:	what.REL are.V.123P.PRES you.PRON.SUB.2SP go.V.PRESPART to.PREP do.V.INFIN afterward.ADV+PV.[or].afterwards.ADV
+%aut:	I.PRON.SUB.1S have.V.1S.PRES to.PREP well.ADV I.PRON.SUB.1S need.V.1S.PRES to.PREP I.PRON.SUB.1S have.V.1S.PRES to.PREP finish.V.INFIN a.DET.INDEF a.DET.INDEF draw.V.PRESPART for.PREP my.ADJ.POSS.1S parent.N.PL
+*LAU:	and so yesterday Michael@s:eng&spa and I +//. 1223902_1225005
+%aut:	he.PRON.SUB.M.3S start.V.PAST tell.V.PRESPART me.PRON.OBJ.1S like.CONJ.[or].like.SV.INFIN
+%aut:	because.CONJ the.DET.DEF wall.N.SG+GB be.V.PRESPART construct.V.PASTPART
+%aut:	my.ADJ.POSS.1S parent.N.PL are.V.123P.PRES like.CONJ ask.V.PRESPART me.PRON.OBJ.1S and.CONJ bother.V.INFIN+ASV me.PRON.OBJ.1S about.PREP it.PRON.OBJ.3S
+*LAU:	so (.) ugh@s:eng&spa . 1254337_1255324
+%aut:	what.REL are.V.123P.PRES you.PRON.SUB.2SP do.V.PRESPART what.REL are.V.123P.PRES we.PRON.SUB.1P go.V.PRESPART to.PREP do.V.INFIN afterward.ADV+PV.[or].afterwards.ADV
+*LAU:	I wanted to go to Old_Navy@s:eng&spa . 1265283_1266130
+*LAU:	well I have to go to Old_Navy to get um Carolina@s:eng&spa and (.) Carolina's@s:eng&spa daughter something +... 1266132_1270048
+*CHL:	later I have to go with Sarah@s:eng&spa to [/] (...) to buy something for somebody's [//] one of our friend's birthdays that's tonight . 1282123_1292454
+%aut:	you.PRON.SUB.2SP+BE.V.PRES go.V.PRESPART to.PREP a.DET.INDEF party.N.SG
+*CHL:	because yesterday oh@s:eng&spa with the whole passport thing uhhuh I had to do uh@s:eng&spa the ladies like in the morning . 1306859_1312538
+*CHL:	+" oh@s:eng&spa I told the [//] my coworkers and Raquel@s:eng&spa . 1316522_1320034
+*CHL:	no@s:eng&spa . 1343037_1343896
+*CHL:	[- spa] se la hace costumbre . 1348458_1349825
+*LAU:	who <the Raquel@s:eng&spa> [//] the lady Raquel@s:eng&spa ? 1369963_1371903
+%aut:	I.PRON.SUB.1S guess.V.1S.PRES she.PRON.SUB.F.3S+BE.V.3S.PRES ask.V.PRESPART for.PREP our.ADJ.POSS.1P bonuses.N.PL
+*CHL:	I don't know when they're gonna you know cuando@s:spa nos@s:spa xxx yeah . 1408995_1412443
+%aut:	I.PRON.SUB.1S do.V.1S.PRES+NEG know.V.INFIN when.CONJ they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART+TO.PREP you.PRON.SUB.2SP know.V.2SP.PRES when.CONJ us.PRON.OBL.MF.1P yeah.ADV
+%aut:	I.PRON.SUB.1S thought.V.PAST he.PRON.SUB.M.3S was.V.3S.PAST leave.V.PRESPART to.PREP name you.PRON.SUB.2SP said.V.PAST or.CONJ something.PRON
+*CHL:	we went to the office Mari@s:eng&spa +//. 1453321_1454755
+*CHL:	and Maricarmen@s:eng&spa had to do you know . 1454761_1456400
+*CHL:	and no@s:spa habían@s:spa pasado@s:spa diez@s:spa minutos@s:spa . 1458784_1461299
+*CHL:	+" [- spa] ya [/] ya les puedo ver ? 1462327_1464093
+*CHL:	Maricarmen@s:eng&spa was like +"/. 1464165_1465262
+*CHL:	+" [- spa] acabo de comenzar . 1465231_1466338
+%aut:	sometime.ADV+PV.[or].sometimes.ADV they.PRON.SUB.3P do.V.3P.PRES+NEG understand.V.INFIN that.CONJ it.PRON.SUB.3S+BE.V.3S.PRES a.DET.INDEF lot.N.SG of.PREP coordinate.V.PRESPART and.CONJ a.DET.INDEF lot.N.SG of.PREP you.PRON.SUB.2SP know.V.2SP.PRES flip.V.PRESPART back.ADV.[or].back.SV.INFIN and.CONJ forth.ADV
+*LAU:	+" oh@s:eng&spa can you have it by tomorrow ? 1479223_1480604
+%aut:	but.CONJ I.PRON.SUB.1S+BE.V.PRES not.ADV I.PRON.SUB.1S go.V.PRESPART+TO.PREP lie.V.INFIN to.PREP you.PRON.SUB.2SP and.CONJ tell.V.INFIN you.PRON.SUB.2SP that.CONJ it.PRON.SUB.3S+BE.V.3S.PRES possible.ADJ
+%aut:	or.CONJ now.ADV they.PRON.SUB.3P forgot.V.3P.PRES you.PRON.SUB.2SP know.V.2SP.PRES that.CONJ it.PRON.SUB.3S take.V.3S.PRES so.ADV long.ADJ how.ADV time.N.SG consume.V.PRESPART it.PRON.SUB.3S is.V.3S.PRES
+*CHL:	Leticia@s:eng&spa told her one day +"/. 1496982_1498300
+%aut:	but.CONJ it.PRON.SUB.3S+BE.V.3S.PRES a.DET.INDEF lot.N.SG of.PREP time.N.SG consume.V.PRESPART
+%aut:	it.PRON.SUB.3S+BE.V.3S.PRES very.ADV time.N.SG consume.V.PRESPART because.CONJ they.PRON.SUB.3P give.V.3P.PRES you.PRON.SUB.2SP a.DET.INDEF board.N.SG with.PREP different.ADJ price.N.SG range.N.PL
+%aut:	five.NUM be.V.PRESPART the.DET.DEF most.ADJ expensive.ADJ
+%aut:	you.PRON.SUB.2SP+BE.V.PRES go.V.PRESPART+TO.PREP use.V.INFIN maybe.ADV fifty.NUM five.NUM percent.N.SG thirty.NUM five.NUM percent.N.SG of.PREP that.DEM.FAR
+%aut:	so.ADV I.PRON.SUB.1S have.V.1S.PRES to.PREP make.V.INFIN sure.ADJ that.CONJ.[or].that.DEM.FAR what.REL I.PRON.SUB.1S+BE.V.PRES use.V.PRESPART ha.IM+PV.[or].has.V.3S.PRES been.V.PASTPART assign.V.PASTPART to.PREP the.DET.DEF bathroom.N.SG in.PREP that.DEM.FAR percentage.N.SG
+%aut:	I.PRON.SUB.1S+BE.V.PRES sorry.ADJ look.SV.INFIN I.PRON.SUB.1S know.V.1S.PRES it.PRON.SUB.3S+BE.V.3S.PRES take.V.PRESPART a.DET.INDEF long.ADJ time.N.SG it.PRON.SUB.3S+BE.V.3S.PRES like.CONJ I.PRON.SUB.1S+BE.V.PRES just.ADJ.[or].just.ADV you.PRON.SUB.2SP know.V.2SP.PRES unk
+%aut:	what.REL we.PRON.SUB.1P gave.V.1P.PRES them.PRON.OBJ.3P in.PREP the.DET.DEF spec.N.SG what.REL we.PRON.SUB.1P were.V.1P.PAST go.V.PRESPART+TO.PREP price.N.SG out.ADV in.PREP the.DET.DEF contractor.N.SG did.V.PAST+NEG did.AV.PAST+NEG bid.SV.INFIN it.PRON.SUB.3S out.ADV did.AV.PAST+NEG price.N.SG it.PRON.OBJ.3S
+%aut:	so.ADV the.DET.DEF so.ADV now.ADV when.CONJ we.PRON.SUB.1P+BE.V.PRES submit.V.PRESPART these.DEM.NEAR.PL new.ADJ unk the.DET.DEF draw.V.PRESPART the.DET.DEF the.DET.DEF work.N.SG is.V.3S.PRES come.V.PRESPART out.ADV more.ADV expensive.ADJ now.ADV
+*LAU:	+" oh@s:eng&spa you know you guys use this and that . 1587202_1589187
+*CHL:	+" did you think like (.) projects (.) en@s:spa un@s:spa día@s:spa ? 1610597_1613848
+*CHL:	Lauren@s:eng&spa . 1614600_1615216
+*LAU:	+< te@s:spa quieren@s:spa tener@s:spa como@s:spa los@s:spa chinos@s:spa eh@s:eng&spa ? 1617845_1619096
+%aut:	and.CONJ I.PRON.SUB.1S dunno.N.SG when.CONJ they.PRON.SUB.3P+BE.V.PRES go.V.PRESPART+TO.PREP fix.V.INFIN it.PRON.OBJ.3S
+*CHL:	+" todos@s:spa estamos@s:spa con@s:spa un@s:spa calor@s:spa and working . 1632917_1635437
+*CHL:	+" are [/] I'm sure this is like (..) como@s:spa unos@s:spa chinitos@s:spa ahí@s:spa trabaja(n)@s:spa . 1637045_1640847
+*LAU:	on Dateline@s:eng&spa last Friday . 1649970_1651831
+*LAU:	Nike@s:eng&spa +... 1658719_1659584
+*LAU:	[- spa] eso [/] eso [/] eso es un pegado . 1673210_1674911
+*CHL:	+< O_B@s:eng&spa [?] I met when I went <to was it> [///] no it was in China . 1675381_1679466
+*CHL:	uh@s:eng&spa we went to this place (.) where they give massages and stuff . 1679472_1683578
+*CHL:	+< no mentirado@s:spa that was a day one five dollars . 1689917_1692400
+*LAU:	there were [?] unos@s:spa chinos@s:spa que@s:spa vivían@s:spa aquí@s:spa . 1697872_1699610
+*CHL:	they were from Taiwan@s:eng&spa . 1700202_1701406
+*LAU:	+" look this is Nike@s:eng&spa . 1706525_1707370
+*LAU:	se@s:spa ve@s:spa it doesn't have the Nike@s:eng&spa check on it . 1707366_1709006
+*LAU:	and he used to get my dad like tennis shoes y@s:spa todo@s:spa <for the> [//] to play tennis . 1711364_1714292
+*LAU:	+" [- spa] la única cosa es que no te pagan . 1716180_1717427
+*LAU:	no@s:spa tienes@s:spa que@s:spa pagar@s:spa mucho@s:spa porque@s:spa no@s:spa [///] you don't have the check . 1717536_1719686
+*LAU:	you know the Nike@s:eng&spa check on it . 1719858_1721031
+*CHL:	pero@s:spa (..) to test um if like jewelry has like lead and stuff . 1725742_1729811
+*CHL:	and depending on <el@s:spa &son> [/] el@s:spa [/] el@s:spa sonido@s:spa . 1735046_1738956
+*CHL:	tiene@s:spa lead or no . 1739077_1740789
+*CHL:	and we were testing some things that we had bought from Chico's@s:eng&spa . 1740825_1744397
+%aut:	and.CONJ we.PRON.SUB.1P were.V.1P.PAST test.V.PRESPART some.ADJ thing.N.PL that.CONJ we.PRON.SUB.1P had.V.PAST bought.V.PASTPART from.PREP name
+%aut:	and.CONJ it.PRON.SUB.3S usual.ADJ+ADV.[or].usually.ADV ha.IM+PV.[or].has.V.3S.PRES like.CONJ a.DET.INDEF heavier.ADJ.[or].heavy.ADJ.COMP um.IM pound.V.PRESPART sound.N.SG
+*CHL:	Maricarmen@s:eng&spa is like +"/. 1787291_1788018
+*LAU:	Maricarmen@s:eng&spa the lady we saw the other day in the park ? 1793510_1795787
+*CHL:	no that's Juana@s:eng&spa . 1795719_1796800
+*LAU:	+< oh@s:eng&spa (.) oh@s:eng&spa yeah . 1796289_1797248
+*CHL:	<and> [//] uh@s:eng&spa and <it's very> [//] it's a very light sound . 1799420_1801644
+*LAU:	+< [- spa] xxx ahí mismo . 1825179_1827356
+*LAU:	+< I remember había@s:spa un@s:spa [//] uno@s:spa hindú@s:spa or something that came to xxx . 1830916_1835166
+%aut:	and.CONJ I.PRON.SUB.1S was.V.13S.PAST go.V.PRESPART+TO.PREP give.V.INFIN the.DET.DEF girl.N.SG it.PRON.SUB.3S was.V.3S.PAST a.DET.INDEF plastic.N.SG pen.N.SG to.PREP sign.N.SG it.PRON.OBJ.3S
+*CHL:	oh@s:eng&spa . 1848646_1849220
+*LAU:	+< [- spa] lo hubiera matado pobrecita . 1868661_1870559
+%aut:	we.PRON.SUB.1P all.ADJ realise.SV.INFIN+AV that.CONJ he.PRON.SUB.M.3S was.V.3S.PAST+NEG lie.V.PRESPART
+*CHL:	oh@s:eng&spa and who else ? 1875872_1876760
+*CHL:	my friend Sel@s:eng&spa [/] Selina@s:eng&spa . 1876917_1878479
+*LAU:	Paige@s:eng&spa is allergic to nickel . 1890733_1892062
+*CHL:	you're going to Old_Navy@s:eng&spa right now ? 1913664_1915986
+%aut:	you.PRON.SUB.2SP+BE.V.PRES go.V.PRESPART to.PREP name right.ADJ now.ADV
+%aut:	you.PRON.SUB.2SP+BE.V.PRES go.V.PRESPART+TO.PREP come.V.INFIN with.PREP me.PRON.OBJ.1S
+*LAU:	I was gonna go there and The Gap@s:eng&spa . 1917976_1919340
+%aut:	I.PRON.SUB.1S was.V.13S.PAST go.V.PRESPART+TO.PREP go.V.INFIN there.ADV and.CONJ name name
+*LAU:	well (.) first Old_Navy@s:eng&spa because it's cheaper . 1919398_1921372
+*CHL:	ok@s:eng&spa . 1919926_1920548
+*CHL:	well maybe I'll find something in The Gap@s:eng&spa for [/] (..) for <the (.) guy> [//] the birthday boy . 1921343_1926096
+*LAU:	oh Paula's@s:eng&spa like +"/. 1927269_1928105
+*LAU:	+" get Carolina@s:eng&spa +... 1928024_1928691
+*LAU:	+" what size is Carolina@s:eng&spa ? 1928976_1929527
+*CHL:	ok@s:eng&spa . 1937538_1938438
